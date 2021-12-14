@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.2.0
+yahoo-fin==0.8.9.1
